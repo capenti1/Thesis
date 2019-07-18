@@ -1,2 +1,2 @@
 # Thesis
-Thesis Capenti and Scagnetti
+Thesis Andrea Capenti and Denny Scagnetti
